@@ -17,6 +17,7 @@
 ## 🛠 Стек технологий
 - **Frontend:** React, Redux Toolkit, SCSS/SASS
 - **Архитектура:** SPA (Single Page Application)
+-  **Backend:** express.js
 
 ## 🚀 Основные модули
 - **Dashboard:** Общая сводка по заказам и активности пользователей.
